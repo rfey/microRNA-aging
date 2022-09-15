@@ -1,0 +1,6 @@
+0	../bamFiles/dme_smRNA_d5_ZT0_rep1.bam
+4	../bamFiles/dme_smRNA_d5_ZT4_rep1.bam
+8	../bamFiles/dme_smRNA_d5_ZT8_rep1.bam
+12	../bamFiles/dme_smRNA_d5_ZT12_rep1.bam
+16	../bamFiles/dme_smRNA_d5_ZT16_rep1.bam
+20	../bamFiles/dme_smRNA_d5_ZT20_rep1.bam
